@@ -1,6 +1,8 @@
 Copyright (c) 2016, Cloud Tiger Media, d.b.a. Upworthy. All rights
 reserved.
 
+BSD 3 Clause License
+
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
 met:
